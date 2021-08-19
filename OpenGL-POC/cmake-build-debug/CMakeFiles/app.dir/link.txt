@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/app.dir/src/hello_world.cpp.o CMakeFiles/app.dir/src/blender-rendering.cpp.o -o app  -L/usr/local/lib -lglfw3 -lrt -lm -lXrandr -lXrender -lXi -lXfixes -lXxf86vm -lXext -lX11 -lpthread -lxcb -lXau -lXdmcp -lGL 

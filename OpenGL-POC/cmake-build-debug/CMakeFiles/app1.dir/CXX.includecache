@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mevuni/CLionProjects/OpenGL-POC/src/blender_rendering.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+time.h
+-
+vector
+-
+GL/freeglut.h
+-
+GL/glext.h
+-
+
